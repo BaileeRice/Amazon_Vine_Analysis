@@ -15,6 +15,7 @@ I picked the 'Video Games' dataset and used PySpark to perform the ETL process t
 -How many Vine reviews and non-Vine reviews were there?
 
 ![image](https://user-images.githubusercontent.com/105184244/195548403-1e2dd005-0fe8-48d7-80d1-66b7bf4a89ab.png) 
+
 ![image](https://user-images.githubusercontent.com/105184244/195548484-34a74a93-14b0-4d98-ad06-a500ea6ed354.png)
 
 
