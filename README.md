@@ -33,5 +33,6 @@ I picked the 'Video Games' dataset and used PySpark to perform the ETL process t
 SUMMARY:
 
 The stats show that 51 percent of the paid reviews are giving 5* ratings, whereas the unpaid is only 39 percent, showcasing a relatively positive bias in reviews. 
+
 Another way to pinpoint biases would be to pass in the other datasets into the template or joining some together with the same analysis. Looking into the occurance rate of the stars given and preforming summary statistics on them could provide better insight on the subject.
 
