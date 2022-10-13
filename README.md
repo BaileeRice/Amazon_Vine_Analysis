@@ -1,7 +1,6 @@
 # Amazon_Vine_Analysis
 
-![image](https://user-images.githubusercontent.com/105184244/195553966-0f8313a0-072a-4d07-9e70-1235c67a5cdb.png)
-
+![image](https://user-images.githubusercontent.com/105184244/195554372-80ed7448-7c33-47d8-9664-4435de0a418e.png)
 
 OVERVIEW:
 
